@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # ⬇️ ВСТАВЬ СВОЙ ТОКЕН между кавычками:
-bot = telebot.TeleBot("ВСТАВЬ_СЮДА_СВОЙ_ТОКЕН")
+bot = telebot.TeleBot("7706170101:AAHGTixRKGcwn3R7m6omRvfodS4gdbWfhtM")
 
 # Команда /start
 @bot.message_handler(commands=['start'])
